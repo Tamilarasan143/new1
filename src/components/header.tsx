@@ -18,7 +18,7 @@ export default function Header() {
           </button> */}
           <Navbar.Brand href="#home"><img src={img0}alt="logo" style={{height:"52px"}}/></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav " >
+        <Navbar.Collapse id="responsive-navbar-nav " className='Nvc'>
           <div >
           <Nav >
             <Nav.Link href="#deets">Home</Nav.Link>

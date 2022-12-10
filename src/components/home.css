@@ -12,3 +12,13 @@
     font-size: 3.5rem;
   }
 }
+.Nvc{
+  display: flex;
+  justify-content: flex-end;
+}
+@media (min-width: 100px) {
+ .Nvc{
+display:inline-block;
+ }
+  
+}
