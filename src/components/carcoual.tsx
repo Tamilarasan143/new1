@@ -55,7 +55,7 @@ function NoTransitionExample() {
           />
 
           <Carousel.Caption>
-            <h3>Third slide label</h3>
+            <h3>Fourth slide label</h3>
             <p>
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p>
@@ -69,7 +69,7 @@ function NoTransitionExample() {
           />
 
           <Carousel.Caption>
-            <h3>Third slide label</h3>
+            <h3>Fiveth slide label</h3>
             <p>
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p>
