@@ -8,7 +8,7 @@ import img5 from "../assets/images/banner05.jpg"
 
 function NoTransitionExample() {
   return (
-    <div >
+    <div  >
       <Carousel slide={false}>
         <Carousel.Item>
           <img
