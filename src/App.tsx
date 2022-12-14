@@ -6,6 +6,8 @@ import Header from './components/header';
 import Main from './components/main';
 import NoTransitionExample from './components/carcoual';
 import Footer from './components/footer';
+import Imggallery from './components/imggallery';
+
 
 function App() {
   return (
@@ -13,7 +15,9 @@ function App() {
       <Header />
       <NoTransitionExample />
       <Main />
+      <Imggallery/>
       <Footer />
+      
     </div>
   );
 }
